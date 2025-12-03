@@ -2,19 +2,3 @@ theme: jekyll-theme-minimal
 title: Minun github testi sivusto
 description: Tärkeitä tietoja
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minun live server</title>
-</head>
-<body>
-    <h1>Live server test</h1>
-    <p>Tämä on live server</p>
-    <br></br>
-    <p>Kuvassa on Mig-31</p>
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Mikoyan-Gurevich_MiG-31BM%2C_Russia_-_Air_Force_AN2226315.jpg" alt="Mig-31" width="600" height="400">
-</body>
-</html>
